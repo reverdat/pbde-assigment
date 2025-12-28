@@ -4,4 +4,6 @@ This repository contains the code to reproduce the results presented in the subm
 
 ## Installation
 
-In order to build the project we recommend to have a `Nix` installation in your machine and reproduce the development environment using `devenv`. 
+In order to build the project we recommend to have a `Nix` installation in your machine and reproduce the fully-fledged development environment using `devenv`: in this case just run `devenv shell` and the resulting shell will build the Python `.venv` using `uv`.
+
+Otherwise, if you have a Python installation (`>= 3.12`) in your machine, you can build the project using the `pyproject.toml` file.
