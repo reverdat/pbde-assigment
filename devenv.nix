@@ -15,6 +15,8 @@
 
   languages.typst.enable = true;
 
+  packages = [ pkgs.duckdb ];
+
   enterShell = ''
     VENV_PATH=$(uv run --quiet python -c "import sys; print(sys.prefix)")
     source "$VENV_PATH/bin/activate"

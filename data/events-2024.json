@@ -1,0 +1,117 @@
+[
+    {
+      "name": "UNGA High-Level Week",
+      "date": "2024-09-23T00:00:00Z",
+      "affected_tlc_zones": [233, 161, 162, 170, 229, 163, 164, 232]
+    },
+    {
+      "name": "President Biden Visit (Upper West Side/Midtown)",
+      "date": "2024-02-07T13:40:00Z",
+      "affected_tlc_zones": [132, 238, 239, 142, 143, 237]
+    },
+    {
+      "name": "President Biden Visit (Late Night Corridor)",
+      "date": "2024-02-26T13:40:00Z",
+      "affected_tlc_zones": [132, 87, 88, 209, 261, 161, 162, 164]
+    },
+    {
+      "name": "Three Presidents Fundraiser",
+      "date": "2024-03-28T00:00:00Z",
+      "affected_tlc_zones": [161, 162, 163, 230]
+    },
+    {
+      "name": "Coordinated Four-Artery Blockade",
+      "date": "2024-01-08T09:40:00Z",
+      "affected_tlc_zones": [211, 231, 87, 78, 261, 148, 255]
+    },
+    {
+      "name": "Tax Day Economic Blockade",
+      "date": "2024-04-15T00:00:00Z",
+      "affected_tlc_zones": [87, 88, 232, 78]
+    },
+    {
+      "name": "Nakba Day Bridge Seizure",
+      "date": "2024-05-11T00:00:00Z",
+      "affected_tlc_zones": [45, 87, 232, 78]
+    },
+    {
+      "name": "Bay Ridge Incident",
+      "date": "2024-05-18T00:00:00Z",
+      "affected_tlc_zones": [14, 15, 16, 17, 18]
+    },
+    {
+      "name": "TCS New York City Marathon",
+      "date": "2024-11-03T07:00:00Z",
+      "affected_tlc_zones": [14, 195, 251, 145, 193, 229, 233, 140, 141, 166, 24, 43, 236, 237, 238]
+    },
+    {
+      "name": "Macy’s Thanksgiving Day Parade (and Balloon Inflation)",
+      "date": "2024-11-28T09:00:00Z",
+      "affected_tlc_zones": [238, 239, 142, 143, 43, 161, 162, 163, 164, 100]
+    },
+    {
+      "name": "St. Patrick’s Day Parade",
+      "date": "2024-03-16T00:00:00Z",
+      "affected_tlc_zones": [161, 162, 170, 140, 141, 236, 237, 263]
+    },
+    {
+      "name": "NYC Pride March",
+      "date": "2024-06-30T00:00:00Z",
+      "affected_tlc_zones": [249, 113, 114, 48, 90, 79]
+    },
+    {
+      "name": "Village Halloween Parade",
+      "date": "2024-10-31T19:00:00Z",
+      "affected_tlc_zones": [249, 211, 113, 114, 68]
+    },
+    {
+      "name": "Five Boro Bike Tour",
+      "date": "2024-05-05T00:00:00Z",
+      "affected_tlc_zones": [87, 233, 226, 14, 261]
+    },
+    {
+      "name": "Summer Streets (Manhattan Kickoff)",
+      "date": "2024-08-03T07:00:00Z",
+      "affected_tlc_zones": [87, 232, 161, 162, 140, 141, 74, 75]
+    },
+    {
+      "name": "Bronx Water Main Crisis",
+      "date": "2024-12-16T00:00:00Z",
+      "affected_tlc_zones": [174, 19, 96]
+    },
+    {
+      "name": "Riverdale Flood",
+      "date": "2024-07-10T00:00:00Z",
+      "affected_tlc_zones": [206, 240, 133]
+    },
+    {
+      "name": "Upper East Side Asbestos Emergency",
+      "date": "2024-08-01T00:00:00Z",
+      "affected_tlc_zones": [236, 237, 141]
+    },
+    {
+      "name": "Inwood Crane Collapse",
+      "date": "2024-01-09T00:00:00Z",
+      "affected_tlc_zones": [127, 128]
+    },
+    {
+      "name": "Borough Park Crane Collapse",
+      "date": "2024-08-01T00:00:00Z",
+      "affected_tlc_zones": [22, 23]
+    },
+    {
+      "name": "Tropical Flash Flooding (Debby Remnants)",
+      "date": "2024-08-06T00:00:00Z",
+      "affected_tlc_zones": [10, 174, 240]
+    },
+    {
+      "name": "MetLife Stadium/NJ Transit Crisis",
+      "date": "2024-05-23T00:00:00Z",
+      "affected_tlc_zones": [142, 143, 163, 211, 231, 87]
+    },
+    {
+      "name": "World Series Return (Yankees vs Dodgers)",
+      "date": "2024-10-28T00:00:00Z",
+      "affected_tlc_zones": [119, 167, 158]
+    }
+  ]

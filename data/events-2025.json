@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Congestion Relief Zone (Congestion Pricing) Implementation",
+      "date": "2025-01-05T00:00:00Z",
+      "affected_tlc_zones": [12, 13, 261, 209, 87, 88, 231, 125, 211, 113, 114, 249, 68, 90, 234, 100, 161, 162, 163, 164, 230, 48, 50, 107, 186]
+    },
+    {
+      "name": "Broadway Bridge Repairs",
+      "date": "2025-01-05T10:00:00Z",
+      "affected_tlc_zones": [127, 128, 153]
+    },
+    {
+      "name": "Melt ICE Rally (Foley Square/SoHo)",
+      "date": "2025-02-13T00:00:00Z",
+      "affected_tlc_zones": [45, 211, 12, 13, 261]
+    },
+    {
+      "name": "Midtown Spyder Crane Collapse",
+      "date": "2025-04-04T15:00:00Z",
+      "affected_tlc_zones": [100, 50, 48, 186, 230]
+    },
+    {
+      "name": "TD Five Boro Bike Tour",
+      "date": "2025-05-04T00:00:00Z",
+      "affected_tlc_zones": [209, 233, 229, 226, 195, 14]
+    },
+    {
+      "name": "NJ Transit Crisis / Shakira Concert (Lincoln Tunnel)",
+      "date": "2025-05-15T00:00:00Z",
+      "affected_tlc_zones": [142, 143, 100, 50, 263]
+    },
+    {
+      "name": "Subway Series: Yankees vs. Mets (Yankee Stadium)",
+      "date": "2025-05-16T00:00:00Z",
+      "affected_tlc_zones": [119, 167, 240]
+    },
+    {
+      "name": "No Kings Movement Protest (Midtown)",
+      "date": "2025-06-14T00:00:00Z",
+      "affected_tlc_zones": [161, 162, 163, 234, 90, 68]
+    },
+    {
+      "name": "Subway Series: Mets vs. Yankees (Citi Field)",
+      "date": "2025-07-04T00:00:00Z",
+      "affected_tlc_zones": [192, 93, 56, 82]
+    },
+    {
+      "name": "FIFA Club World Cup Final (Lincoln Tunnel Impact)",
+      "date": "2025-07-13T00:00:00Z",
+      "affected_tlc_zones": [142, 143, 100, 186]
+    },
+    {
+      "name": "Flash Floods (July 14)",
+      "date": "2025-07-14T00:00:00Z",
+      "affected_tlc_zones": [186, 100, 119, 167, 240]
+    },
+    {
+      "name": "Cypress Hills Wall Collapse",
+      "date": "2025-09-09T00:00:00Z",
+      "affected_tlc_zones": [62, 36, 198]
+    },
+    {
+      "name": "UN General Assembly Gridlock Alert",
+      "date": "2025-09-22T00:00:00Z",
+      "affected_tlc_zones": [233, 170, 162, 161, 229]
+    },
+    {
+      "name": "UN General Assembly Protest Blockade",
+      "date": "2025-09-23T00:00:00Z",
+      "affected_tlc_zones": [233, 170, 162]
+    },
+    {
+      "name": "No Kings Movement Protest (Multi-Borough)",
+      "date": "2025-10-18T00:00:00Z",
+      "affected_tlc_zones": [230, 142, 143, 189, 190]
+    },
+    {
+      "name": "TCS New York City Marathon",
+      "date": "2025-11-02T07:00:00Z",
+      "affected_tlc_zones": [14, 226, 189, 193, 229, 233, 161, 162, 74, 75, 43, 236, 237, 238, 239]
+    },
+    {
+      "name": "Macy’s Thanksgiving Day Parade",
+      "date": "2025-11-27T09:00:00Z",
+      "affected_tlc_zones": [238, 239, 142, 143, 43, 161, 162, 163, 100]
+    },
+    {
+      "name": "Bronx Water Main Repair (Continuing Impact)",
+      "date": "2025-01-01T00:00:00Z",
+      "affected_tlc_zones": [174, 19, 96]
+    }
+]
